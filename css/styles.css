@@ -1,0 +1,77 @@
+/* * {
+  border: 1px solid red;
+} */
+
+body {
+  background-image: url("../img/bg_stars.gif");
+  color: red;
+  font-family: serif;
+}
+
+#main-menu {
+  margin: 200px 40% 200px 40%;
+  width: 500px;
+}
+
+#footer {
+  margin-left: 40%;
+  margin-right: 40%;
+  text-align: center;
+  width: 500px;
+}
+
+li {
+  display: inline;
+}
+
+#logoImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -100px;
+}
+
+#pressbox-shuttle {
+  padding: 50px 0px 0px 30px;
+}
+
+#jam-central {
+  padding: 20px;
+}
+
+#planet-bball {
+  padding-bottom: 40px;
+}
+
+#lunartunes {
+  padding-top: 25px;
+}
+
+#the-lineup {
+  padding-top: 40px;
+}
+
+#jumpstation {
+  padding-top: 45px;
+  padding-left: 40px;
+}
+
+#junior-jam {
+  padding-left: 5px;
+}
+
+#sitemap {
+  padding-top: 30px;
+}
+
+#warner-studio-store {
+  padding-top: 40px;
+}
+
+#stellar-souvenirs {
+  margin-top: -40px;
+}
+
+#behind-the-jam {
+  margin-top: -40px;
+}
